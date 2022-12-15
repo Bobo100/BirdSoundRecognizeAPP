@@ -14,7 +14,7 @@ Keyword: Bird Sound、Bird Sound Recognition、Application、Machine Leanring、
 
 Three CNN models for bird sound recognition are trained and tested with different configurations and hyperparameters. Models can be used offline. Unlike traditional methods, our method does not need to send data back to the server, thus saving at least 8 seconds for the overall computation time.
 
-The model trained in the previous step will be deployed to the mobile phone for use.
+The model trained in the previous step (machine learning ) will be deployed to the mobile phone for use.
 
 The ResNet version is currently available.
 I have not uploaded the method for Efficientnet and YAMNet.
